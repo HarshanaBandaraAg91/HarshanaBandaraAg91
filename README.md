@@ -7,7 +7,7 @@ Web Developer / Designer
 I love code !!
 
 * 🌍  I'm based in Sri Lanka.
-* 🖥️  See my portfolio at [My Portfolio](http://deepmeg-harshana-portfolio.netlify.app/#)
+* 🖥️  See my portfolio at [My Portfolio](https://harshanas.netlify.app/)
 * ✉️  You can contact me at [harshana.amb@gmail.com]
 * 🚀  I'm currently working on [Making Animation Websites](http://github.com/HarshanaBandaraAg91/Animation-website)
 * 🧠  I'm learning React Native.
